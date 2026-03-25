@@ -1,2 +1,2 @@
 🔴 Live Demo
-https://vrhovaco.github.io/circle-animation/
+https://vrhovaco.github.io/circle-animator/
